@@ -1,0 +1,37 @@
+_repo: A-Dog-of-Flanders_7766
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ouida
+    aliases:
+    - De la Ramée, Louise
+    - Uida
+    - Ramée, Maria Louise
+    - De La Rame, Louisa
+    - De la Ramee, Louise
+    - De la Ramée, Louisa
+    - Ramé, Marie Louise
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '1204'
+    url: http://www.gutenberg.org/2009/agents/1204
+    wikipedia: http://en.wikipedia.org/wiki/Ouida
+description: ''
+gutenberg_bookshelf:
+- Children's Literature
+- Animals-Domestic
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7766'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Flanders (Belgium) -- Fiction'
+- GITenberg
+title: A Dog of Flanders
+url: http://www.gutenberg.org/ebooks/7766
